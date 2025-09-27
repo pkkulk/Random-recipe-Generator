@@ -1,0 +1,251 @@
+[
+  {
+    "title": "Chicken & Rice Delight",
+    "ingredients": ["chicken", "rice", "onions", "garlic", "pepper"],
+    "instructions": [
+      "Cut chicken into pieces and marinate with turmeric, red chili powder, and salt.",
+      "Heat oil or ghee in a deep pan.",
+      "Add cumin seeds, then sauté onions and garlic until golden.",
+      "Add marinated chicken and cook until browned.",
+      "Stir in soaked basmati rice and mix well.",
+      "Add water, cover, and cook on low heat until rice and chicken are done.",
+      "Garnish with chopped coriander and serve hot."
+    ]
+},
+{
+    "title": "Paneer Butter Masala",
+    "ingredients": ["paneer", "tomato", "cream", "butter", "garam masala"],
+    "instructions": [
+        "Sauté onions and tomatoes in butter.",
+        "Blend to a smooth paste.",
+        "Add paneer cubes and cream.",
+        "Season with garam masala and simmer.",
+        "Serve hot with naan or rice."
+    ]
+},
+{
+    "title": "Chole Masala",
+    "ingredients": ["chickpeas", "onion", "tomato", "ginger", "chole masala"],
+    "instructions": [
+        "Soak and boil chickpeas.",
+        "Sauté onions, tomatoes, and ginger.",
+        "Add chole masala and chickpeas.",
+        "Simmer for 20 minutes.",
+        "Serve with bhature or rice."
+    ]
+},
+{
+    "title": "Dal Tadka",
+    "ingredients": ["toor dal", "onion", "tomato", "garlic", "ghee"],
+    "instructions": [
+        "Boil dal until soft.",
+        "Prepare tadka with ghee, garlic, onion, and tomato.",
+        "Mix tadka into dal.",
+        "Simmer for 5 minutes.",
+        "Serve with rice or roti."
+    ]
+},
+{
+    "title": "Aloo Gobi",
+    "ingredients": ["potato", "cauliflower", "onion", "tomato", "spices"],
+    "instructions": [
+        "Sauté onions and tomatoes.",
+        "Add potatoes and cauliflower.",
+        "Add spices and cook until tender.",
+        "Garnish with coriander.",
+        "Serve with roti."
+    ]
+},
+{
+    "title": "Baingan Bharta",
+    "ingredients": ["eggplant", "onion", "tomato", "garlic", "spices"],
+    "instructions": [
+        "Roast and mash eggplant.",
+        "Sauté onions, tomatoes, and garlic.",
+        "Add mashed eggplant and spices.",
+        "Cook for 10 minutes.",
+        "Serve with roti."
+    ]
+},
+{
+    "title": "Rajma",
+    "ingredients": ["kidney beans", "onion", "tomato", "ginger", "spices"],
+    "instructions": [
+        "Soak and boil kidney beans.",
+        "Sauté onions, tomatoes, and ginger.",
+        "Add beans and spices.",
+        "Simmer for 20 minutes.",
+        "Serve with rice."
+    ]
+},
+{
+    "title": "Bhindi Masala",
+    "ingredients": ["okra", "onion", "tomato", "spices", "oil"],
+    "instructions": [
+        "Slice and sauté okra.",
+        "Add onions, tomatoes, and spices.",
+        "Cook until okra is tender.",
+        "Serve with chapati."
+    ]
+},
+{
+    "title": "Palak Paneer",
+    "ingredients": ["spinach", "paneer", "onion", "tomato", "spices"],
+    "instructions": [
+        "Blanch and puree spinach.",
+        "Sauté onions and tomatoes.",
+        "Add paneer and spinach puree.",
+        "Cook with spices for 10 minutes.",
+        "Serve with naan."
+    ]
+},
+{
+    "title": "Vegetable Pulao",
+    "ingredients": ["basmati rice", "mixed vegetables", "spices", "onion", "ghee"],
+    "instructions": [
+        "Sauté onions and spices in ghee.",
+        "Add vegetables and rice.",
+        "Add water and cook until rice is done.",
+        "Serve hot."
+    ]
+},
+{
+    "title": "Dhokla",
+    "ingredients": ["gram flour", "yogurt", "lemon juice", "mustard seeds", "curry leaves"],
+    "instructions": [
+        "Mix gram flour, yogurt, and lemon juice.",
+        "Steam the batter until set.",
+        "Prepare tempering with mustard seeds and curry leaves.",
+        "Pour tempering over dhokla.",
+        "Cut and serve."
+    ]
+},
+{
+    "title": "Masoor Dal",
+    "ingredients": ["masoor dal", "onion", "tomato", "garlic", "spices"],
+    "instructions": [
+        "Boil masoor dal.",
+        "Sauté onions, tomatoes, and garlic.",
+        "Add dal and spices.",
+        "Simmer for 10 minutes.",
+        "Serve with rice or roti."
+    ]
+},
+{
+    "title": "Spaghetti Bolognese",
+    "ingredients": ["spaghetti", "ground beef", "tomato sauce", "onion", "garlic"],
+    "instructions": [
+        "Cook spaghetti according to package instructions.",
+        "Sauté onion and garlic in a pan.",
+        "Add ground beef and cook until browned.",
+        "Pour in tomato sauce and simmer for 15 minutes.",
+        "Serve sauce over spaghetti."
+    ]
+},
+{
+    "title": "Classic Pancakes",
+    "ingredients": ["flour", "milk", "egg", "baking powder", "sugar"],
+    "instructions": [
+        "Mix flour, baking powder, and sugar in a bowl.",
+        "Whisk in milk and egg until smooth.",
+        "Pour batter onto a hot griddle.",
+        "Cook until bubbles form, then flip.",
+        "Serve with syrup."
+    ]
+},
+{
+    "title": "Beef Tacos",
+    "ingredients": ["taco shells", "ground beef", "lettuce", "cheddar cheese", "salsa"],
+    "instructions": [
+        "Cook ground beef in a skillet.",
+        "Fill taco shells with beef.",
+        "Top with lettuce, cheese, and salsa.",
+        "Serve immediately."
+    ]
+},
+{
+    "title": "Tomato Basil Soup",
+    "ingredients": ["tomatoes", "basil", "onion", "garlic", "vegetable broth"],
+    "instructions": [
+        "Sauté onion and garlic in a pot.",
+        "Add chopped tomatoes and broth.",
+        "Simmer for 20 minutes.",
+        "Blend until smooth.",
+        "Stir in fresh basil and serve."
+    ]
+},
+{
+    "title": "Egg Fried Rice",
+    "ingredients": ["rice", "eggs", "peas", "carrots", "soy sauce"],
+    "instructions": [
+        "Scramble eggs in a wok.",
+        "Add cooked rice, peas, and carrots.",
+        "Stir fry for 5 minutes.",
+        "Add soy sauce and mix well.",
+        "Serve hot."
+    ]
+},
+{
+    "title": "Grilled Cheese Sandwich",
+    "ingredients": ["bread", "cheddar cheese", "butter"],
+    "instructions": [
+        "Butter one side of each bread slice.",
+        "Place cheese between bread slices, buttered side out.",
+        "Grill in a pan until golden brown on both sides.",
+        "Serve warm."
+    ]
+},
+{
+    "title": "Caesar Salad",
+    "ingredients": ["romaine lettuce", "croutons", "parmesan cheese", "Caesar dressing"],
+    "instructions": [
+        "Chop lettuce and place in a bowl.",
+        "Add croutons and parmesan cheese.",
+        "Drizzle with Caesar dressing and toss.",
+        "Serve chilled."
+    ]
+},
+{
+    "title": "Lemon Garlic Salmon",
+    "ingredients": ["salmon fillets", "lemon", "garlic", "olive oil", "dill"],
+    "instructions": [
+        "Place salmon on a baking sheet.",
+        "Drizzle with olive oil, lemon juice, and minced garlic.",
+        "Sprinkle with dill.",
+        "Bake at 400°F for 15 minutes.",
+        "Serve hot."
+    ]
+},
+{
+    "title": "Mushroom Risotto",
+    "ingredients": ["arborio rice", "mushrooms", "onion", "parmesan cheese", "vegetable broth"],
+    "instructions": [
+        "Sauté onion and mushrooms in a pan.",
+        "Add rice and cook for 2 minutes.",
+        "Gradually add broth, stirring constantly.",
+        "Cook until rice is creamy.",
+        "Stir in parmesan cheese and serve."
+    ]
+},
+{
+    "title": "Greek Salad",
+    "ingredients": ["cucumber", "tomato", "feta cheese", "olives", "red onion"],
+    "instructions": [
+        "Chop cucumber, tomato, and red onion.",
+        "Combine in a bowl with feta cheese and olives.",
+        "Drizzle with olive oil and toss.",
+        "Serve fresh."
+    ]
+},
+  {
+    "title": "Veggie Stir Fry",
+    "ingredients": ["broccoli", "carrots", "bell peppers", "soy sauce", "ginger"],
+    "instructions": [
+      "Chop all vegetables.",
+      "Heat oil in a wok.",
+      "Add vegetables and stir fry for 5-7 minutes.",
+      "Add soy sauce and ginger.",
+      "Serve hot with rice or noodles."
+    ]
+  }
+]
